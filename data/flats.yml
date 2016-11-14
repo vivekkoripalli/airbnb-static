@@ -1,0 +1,24 @@
+harsha:
+  owner_name: harsha koripalli
+  picture: card-paris.jpg
+  owner_picture: harsha.jpg
+  name: harsha's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+vivek:
+  owner_name: vivek koripalli
+  picture: card-brussels.jpeg
+  owner_picture: vivek.jpg
+  name: vivek's home
+  summary: Nice flat in Piccadilly
+  city: Germany, DE
+  wifi: false
+vicky:
+  owner_name: vickys nadella
+  picture: card-london.jpeg
+  owner_picture: brotime.jpg
+  name: vicky's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: true
